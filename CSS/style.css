@@ -48,7 +48,7 @@ img {
 }
 main {
     background: 
-    url(/img/bg5.gif) center no-repeat;
+    url(../img/bg5.gif) center no-repeat;
     background-size: 600px;
 }
 
@@ -265,7 +265,7 @@ input:focus ~ label {
     display: block;
     min-width: 4rem;
     min-height: 4rem;
-    background-image: url(/img/menu/kat.png);
+    background-image: url(../img/menu/kat.png);;
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 50%;

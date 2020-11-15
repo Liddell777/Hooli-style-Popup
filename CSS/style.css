@@ -254,9 +254,10 @@ input:focus ~ label {
     min-width: 29rem;
     min-height: 3.1rem;
     border-radius: 2rem;
-    background-color: #171616cf;
+    background-color: #f7f6f6cf;
+    border: 5px solid black;
     font-size: 1.5rem;
-    color: #f7f5f5;
+    color: #efeaea;
     -webkit-transition: all 300ms;
     transition: all 300ms;
     text-align: center;

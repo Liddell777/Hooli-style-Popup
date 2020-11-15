@@ -115,7 +115,7 @@ header{
     background: #fbfbfb;
     border: 5px solid black;
     border-radius: 4px;
-
+}
 .mainpopup::before {
     content: "";
     position: absolute;

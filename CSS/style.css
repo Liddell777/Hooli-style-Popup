@@ -52,12 +52,10 @@ main {
     background-size: 500px;
 }
 
-
 header {
     width: 100vw;
     height: 80px;
 } 
-
 .nav {
     max-width: 90vw;
     margin: auto;
@@ -94,10 +92,6 @@ header {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-    /* width: 30px;
-    height: 30px;
-    cursor: pointer;
-    opacity: 0; */
 }
 
 .menu__label {
@@ -163,7 +157,6 @@ header {
 
 .main-popup__link:hover {
     outline: 2px solid black;
-    /* padding: 10px; */
 } 
 
 .main-popup__link:focus {
@@ -186,11 +179,6 @@ header {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-   /*  width: 20px;
-    height: 10px;
-    cursor: pointer;
-    opacity: 0;
-    top: 70%; */
 }
 
 .main-popup__item-label {
@@ -213,10 +201,6 @@ header {
     content: "less";
     background-color: #eb665d;
 }
-
-/* .main-popup__item-label:before {
-    content: "More";
-} */
 
 .main-popup--invisible {
     visibility: hidden;
@@ -241,10 +225,6 @@ input:focus ~ label {
     outline-style: auto;
     outline-width: 1px;
 }
-
-/* .main-popup__item-input:checked ~ .main-popup__item-label::after {
-    font-size: 0px;
-}  */
 
 .menu__item-input:checked ~ .menu__item-label::before {
     display: block;
